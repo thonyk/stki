@@ -7,6 +7,9 @@ h2 {
     background-size: 60px 40px;
 	background-color: #c3d0ef;
 }
+a {
+    font-size:13px;
+}
 </style>
 </head>
 <body>
@@ -23,6 +26,9 @@ h2 {
 <a href="datastopword.php">Data Stopword</a> |
 <a href="prosesstopword.php">Proses Stopword</a> |
 <a href="prosesstemming.php">Proses Stemming</a> |
+<a href="tf.php">Term Frequency</a> |
+<a href="idf.php">Invers Document Frequency</a> |
+<a href="tfidf.php">TF.IDF</a> |
 </div>
 <hr/>
 </body>
